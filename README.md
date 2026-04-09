@@ -3,6 +3,10 @@
 **GeoPreview** is a macOS app that lets you instantly preview geospatial files directly in Finder.
 
 No need to open heavy GIS software like QGIS just to check what's inside a file.
+<p align="center">
+  <img src="1.gif" width="48%" style="margin-right:2%;" />
+  <img src="2.gif" width="48%" />
+</p>
 
 [![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/geopreview/id6758587360)
 
@@ -140,7 +144,7 @@ GeoPreview is perfect if you:
 
 ## Download GeoPreview
 
-👉 https://apps.apple.com/us/app/geopreview/id6758587360
+[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/geopreview/id6758587360)
 
 ---
 
