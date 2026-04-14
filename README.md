@@ -136,9 +136,9 @@ GeoPreview is perfect if you:
 
 ## Learn more
 
-- [How to open GeoJSON on Mac](https://tony.expert/blog/how-to-open-geojson-files-on-mac/)
-- [How to open Shapefile on Mac](https://tony.expert/blog/how-to-open-shapefile-files-on-mac/)
-- [How to open GPKG on Mac](https://tony.expert/blog/how-to-open-gpkg-files-on-mac/)
+- [How to open GeoJSON on Mac](https://geopreview.tony.expert/blog/how-to-open-geojson-files-on-mac/)
+- [How to open Shapefile on Mac](https://geopreview.tony.expert/blog/how-to-open-shapefile-files-on-mac/)
+- [How to open GPKG on Mac](https://geopreview.tony.expert/blog/how-to-open-gpkg-files-on-mac/)
 - [Watch live GeoPreview UX preview](https://www.youtube.com/watch?v=4fMDHyogSi4)
 - [Follow us on Medium](https://medium.com/@anovichikhinw/how-to-open-gis-files-on-mac-without-launching-qgis-or-arcgis-c16620496d57)
 ---
